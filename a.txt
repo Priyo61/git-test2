@@ -1,0 +1,5 @@
+- git init
+-ls -la to check is git configure to machine 
+- git add .
+- git status
+- git commit -m "add files"
