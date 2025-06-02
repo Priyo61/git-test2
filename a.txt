@@ -3,3 +3,8 @@
 - git add .
 - git status
 - git commit -m "add files"
+- git remote add origin <link which i have to create in hub>
+- git remote -v  (for verify is update in remote or not)
+- git branch  (to check current branch)
+-git branch -M main (to rename branch name)
+- git push  origin main (to push files in files )
