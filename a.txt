@@ -10,3 +10,7 @@
 - git push  origin main (to push files in files )
 - git push -u origin main (if we used this no need to used orign main we will use git push)
 -end
+
+-- git checkout -b <new branch name>  --- to create new branch name
+-- git checkout <branchn name> to change another branch
+-- git branch -d <b.name>  to delete branch
