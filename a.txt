@@ -14,3 +14,5 @@
 -- git checkout -b <new branch name>  --- to create new branch name
 -- git checkout <branchn name> to change another branch
 -- git branch -d <b.name>  to delete branch
+
+-- git push --set-upstream origin feature (to push in new branch)
