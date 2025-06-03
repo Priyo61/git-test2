@@ -16,3 +16,5 @@
 -- git branch -d <b.name>  to delete branch
 
 -- git push --set-upstream origin feature (to push in new branch)
+-- git diff <branchname>  compare branch
+-- git pull origin main: to take file from hub
